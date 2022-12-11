@@ -6,7 +6,7 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-import AltschoolStudent from './components/AtschoolStudent.vue';
+import AltschoolStudent from './components/AltschoolStudent.vue';
 
 export default {
   name: 'App',
